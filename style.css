@@ -1,0 +1,53 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    
+}
+th, td{
+    text-align: center;
+}
+thead{
+    width: 100%;
+}
+#formdiv{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    width: 90%;
+    margin: 1%;
+    
+}
+.buttondiv{
+    display: flex; 
+    width: 40%;
+}
+button{
+    margin: 2px;
+    flex: 1;
+    
+}
+/* #realImage{
+    border-radius: 50%;
+    column-width: auto;
+    width: 5%;
+    height: 5%;
+    
+    
+} */
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.containBox{
+    display: flex;
+    width: 100%;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
