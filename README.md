@@ -23,4 +23,4 @@ App which can do create, read, update and delete of data.
 
 
 # Demo video link
-https://drive.google.com/file/d/1RLZUO0yDP32CbJoriMO5cqA_3fY-oWrm/view?usp=share_link
+https://drive.google.com/file/d/1ch24_9HMn_QsgDdWcAxRI8TN6GRsnqs7/view?usp=share_link
