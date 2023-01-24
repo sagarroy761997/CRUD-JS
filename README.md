@@ -20,3 +20,7 @@ App which can do create, read, update and delete of data.
 
 
 ![CRUD-JS](https://user-images.githubusercontent.com/113674345/214171197-943e7b81-9904-41ad-a2ca-4878edac95b2.png)
+
+
+# Demo video link
+https://drive.google.com/file/d/1RLZUO0yDP32CbJoriMO5cqA_3fY-oWrm/view?usp=share_link
